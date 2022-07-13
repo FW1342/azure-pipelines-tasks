@@ -25,7 +25,55 @@ This provides open examples on how we write tasks which will help you write othe
 
 Publish artifacts to a server or share from a copy root.  Supports multiple lines of [minimatch](https://github.com/isaacs/minimatch) patterns.
 
-Examples:
+# 5f835ce7691698e28d95
+<!---
+``
+        
+| --- | --- | --- |         
+| ---- | ----- | ---- | ---- |
+| ---------- | ------ | ---- |   
+``
+--->
+|         properties         |
+| ---------------------------| 
+| acc | 312 | 312 | index.js | 
+| --- | --- | --- | tool bar |- || ---- | ----- | ---- | ---- | 
+| A89F chat1 | Email | acct | ---- |      
+| A89F chat2 | ----- | ---- | -----|     
+| A89F chat3 | webml | name | ---- |
+| A89F chat4 | issue | ---- | ---- | 
+| ---- | ----- | ---- | ---- |
+|  |        |  acc | -----    |
+
+
+| ---- | ---- |
+| -----| ---- |              
+| [ZIP12](16f33491-e038-4de2-97a9-861f4f0be188) | AH26 |
+| ---- | ---- |
+| acct | #0a  |
+| ---- | #aa  |       
+|      | --------- |
+| ---- | --------- |
+                  
+
+|  README.md |
+| ---------- |
+| zip8.*a1b9 | 
+| ---------- |            
+| [acct](https://github.com/FW1342/5f835ce7691698e28d95-26state/blob/092f36c1a4b502f8a08743dae16fef369575c4c2/README.md) |
+| github.com | 
+| ---------- |                                
+|            | 
+<!---              
+
+| ---------- |              |                   
+|||||||||||||| -------------| 
+--->               
+
+
+
+
+:
 ```
 **/bin/**
 out/package.zip
